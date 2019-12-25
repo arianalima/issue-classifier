@@ -1,0 +1,46 @@
+Refactor the PyDev interactive console to be used in other projects
+Define rules to replace existing HTML Tidy rules
+Add console.debug selector to default themes
+Externalize UI strings in bundle-dev ruble
+Build JS interactive console feature and bundle it in the build (with PyDev dependency for now)
+Externalize UI strings in shell script ruble
+Create JS interactive console documentation in wiki
+JS Parser: make the ast creation faster when comments are collected.
+Chromium: Update WebKit Browser implementation to cef_rev392
+Investigate difference in speed of editor opening between Studio 1.5 and 3.0
+**** Add "Go to Matching Bracket" to Javascript editor      vs     "Add ""Go to Matching Bracket"" to Javascript editor" ****
+Error markers are not correct in PHP after refactoring to use parse cache (error markers are flushed).
+Externalize UI strings in HTML ruble
+Enable performance-based tests on Jenkins
+Externalize UI strings in mercurial ruble
+Externalize UI strings in capistrano ruble
+Externalize UI strings in Rails ruble
+Externalize UI strings in Markdown ruble
+Externalize UI strings in Python ruble
+Externalize UI strings in coffeescript ruble
+Externalize UI strings in github ruble
+Externalize UI strings in jQuery ruble
+Externalize UI strings in WebFont ruble
+Externalize UI strings in wordpress ruble
+Externalize UI strings in YAML ruble
+Externalize UI strings in SASS ruble
+Externalize UI strings in source ruble
+Externalize UI strings in JS ruble
+Externalize UI strings in text ruble
+Externalize UI strings in math ruble
+Externalize UI strings in cucumber ruble
+Externalize UI strings in engineyard ruble
+Externalize UI strings in HAML ruble
+Externalize UI strings in Heroku ruble
+Externalize UI strings in JSON ruble
+Externalize UI strings in PHP ruble
+Externalize UI strings in RSpec ruble
+Externalize UI strings in Ruby ruble
+Externalize UI strings in XML ruble
+Externalize UI strings in CSS ruble
+Create wiki page describing how to add samples via a ruble
+Update Studio version # from 3.0.4 to 3.0.5
+Upgrade Hudson to latest version
+Externalize UI strings in zen-coding ruble
+Install and configure Derby on a Hudson agent
+Add FTPS option to disable SSL/TLS session resumption
